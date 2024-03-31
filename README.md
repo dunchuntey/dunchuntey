@@ -4,12 +4,11 @@ I've worked as a generalist translator, neither out of passion nor desire, for t
 
 If using passion or some kind of spiritual devotion as a metric for defining "what" I am, then I'm a composer (of music), with experience doing so both professionally, semi-professionally, and pseudo-professionally, as well as, more successfully and rewardingly, none of the above.
 
-- 👀 I’m interested in: Music, musicology, making lists, wanting to make little algorithm things related to music that I lack the coding skills to make yet, Python — hopefully that lasts...
-- 🌱 I’m currently learning: Python.
-- 💞️ I’m looking to collaborate on: Not sure I have the skills for that yet.
-- 📫 "Socials": <br> https://discord.com/users/1024378540583571567
+- I’m interested in: Music, musicology, making lists, wanting to make little algorithm things related to music that I lack the coding skills to make yet, Python — hopefully that lasts...
+- I’m currently learning: Python.
+- "Socials": <br> https://discord.com/users/1024378540583571567
                <br> https://louislaws.bandcamp.com/
-- 😄 Pronouns: He/Him
+- Pronouns: He/Him
 
 <!---
 dunchuntey/dunchuntey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
