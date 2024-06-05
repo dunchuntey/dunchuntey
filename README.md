@@ -2,7 +2,7 @@ Hello. I'm Louis, and due to a series of events and circumstances, the details o
 
 I've worked as a generalist translator, neither out of passion nor desire, for the past 15 years, and that work seems to be somewhat drying up due to an increase in the use of AI translating tools and a decrease in the amount of (insert(expletives)) given about the results.
 
-If using passion or some kind of spiritual devotion as a metric for defining "what" I am, then I'm a composer (of music), with experience doing so both professionally, semi-professionally, and pseudo-professionally, as well as, more successfully and rewardingly, none of the above.
+If using passion or some kind of long-term spiritual affinity as a metric for defining "what" I am, then I'm a composer (of music), with experience doing so both professionally, semi-professionally, and pseudo-professionally, as well as, more successfully and rewardingly, none of the above.
 
 - I’m interested in: Music, musicology, making lists, wanting to make little algorithm things related to music that I lack the coding skills to make yet, Python — hopefully that lasts...
 - I’m currently learning: Python.
