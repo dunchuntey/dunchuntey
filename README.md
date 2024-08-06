@@ -4,10 +4,10 @@ I've worked as a generalist translator, neither out of passion nor desire, for t
 
 If using passion or some kind of long-term spiritual affinity as a metric for defining "what" I am, then I'm a composer (of music), with experience doing so both professionally, semi-professionally, and pseudo-professionally, as well as, more successfully and rewardingly, none of the above.
 
-- I’m interested in: Music, musicology, making lists, wanting to make little algorithm things related to music that I lack the coding skills to make yet, Python — hopefully that lasts...
+- I’m interested in: Music, musicology, making lists, bikes, wanting to make little algorithm things related to music that I lack the coding skills to make.
 - I’m currently learning: Python.
-- "Socials": <br> https://discord.com/users/1024378540583571567
-               <br> https://louislaws.bandcamp.com/
+- Elsewhere: <br> https://discord.com/users/1024378540583571567
+               <br> https://louislaws.bandcamp.com/ <br> https://soundcloud.com/louislaws
 - Pronouns: He/Him
 
 <!---
