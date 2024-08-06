@@ -1,6 +1,4 @@
-Hello. I'm Louis, and due to a series of events and circumstances, the details of which are long but not necessarily interesting, I've taken up learning to code with the hopes of potentially pivoting to some kind of work in "this" field. I'm clueless, we'll see.
-
-I've worked as a generalist translator, neither out of passion nor desire, for the past 15 years, and that work seems to be somewhat drying up due to an increase in the use of AI translating tools and a decrease in the number of sh*ts given about the results.
+Hello. I'm Louis, I've taken up learning Python. I'm clueless, we'll see.
 
 If using passion or some kind of long-term spiritual affinity as a metric for defining "what" I am, then I'm a composer (of music), with experience doing so both professionally, semi-professionally, and pseudo-professionally, as well as, more successfully and rewardingly, none of the above.
 
