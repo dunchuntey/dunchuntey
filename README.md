@@ -1,4 +1,4 @@
-Hello. I'm Louis, I've taken up learning Python. I'm clueless, we'll see.
+Hello. I'm Louis, I've taken up Python. We'll see.
 
 ### Currently 
 I have a project up that it would be interesting to collaborate on, it's an [algorithmic musical scale generator](https://github.com/dunchuntey/skeletons). 
