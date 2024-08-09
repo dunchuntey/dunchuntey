@@ -1,7 +1,7 @@
 Hello. I'm Louis, I've taken up Python. We'll see.
 
 ### Currently 
-I have a project up that it would be interesting to collaborate on, it's an [algorithmic musical scale generator](https://github.com/dunchuntey/skeletons). 
+I have a repo up that it would be interesting to collaborate on, it's an [algorithmic musical scale generator](https://github.com/dunchuntey/skeletons). 
 
 Given my beginner level in Python, I imagine the project can be improved upon in most ways. Anyone interested is heartily invited to take a look.
 
