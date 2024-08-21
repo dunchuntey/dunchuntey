@@ -1,5 +1,5 @@
 ### Currently 
-I have a repo up that it would be interesting to collaborate on, it's an [algorithmic musical scale generator](https://github.com/dunchuntey/skeletons). 
+For the moment you can have a look at my CS50P final project, a kind of [algorithmic musical scale generator](https://github.com/dunchuntey/skeletons) that basically generates curated [pitch sets](https://en.wikipedia.org/wiki/Set_(music)).
 
 Given my beginner level in Python, I imagine the project can be improved upon in most ways. Anyone interested is heartily invited to take a look.
 
