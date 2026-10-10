@@ -1,4 +1,4 @@
-### Currently 
+### All of the below is irrelevant as of a couple of years ago. 
 At the moment I'm continuing to try to try to continue to build on the ideas in my [algorithmic musical scale generator](https://github.com/dunchuntey/skeletons), which basically generates curated [pitch sets](https://en.wikipedia.org/wiki/Set_(music)). The aim is to implement a further handful of variations on this initial concept.
 
 Also, I've started to work on some [simple inversion programs](https://github.com/dunchuntey/transformation), which, where appropriate, I'll hopefully be able to pair up with the above pitch set generation stuff.
